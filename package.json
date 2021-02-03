@@ -1,0 +1,17 @@
+{
+  "name": "discord-mp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"env-cmd -f .env node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.1"
+  },
+  "devDependencies": {
+    "env-cmd": "^10.1.0"
+  }
+}
