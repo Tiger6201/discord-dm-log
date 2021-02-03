@@ -6,3 +6,5 @@ Video how to get your token : https://www.youtube.com/watch?v=zD5houIO6Zg<br/>
 put your token in the .env file<br/>
 npm install<br/>
 To run : npm run start<br/>
+# Using with pm2
+ pm2 start npm --name "discordlog" -- start
